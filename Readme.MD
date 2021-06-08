@@ -26,13 +26,14 @@ Projek ini dimaksudkan untuk memberikan studi kasus singkat terkait penggunaan:
 3. Browser akan otomatis membuka laman hasil analisis bundle untuk masing-masing studi kasus.
 
 ## Info Output Analisis
-1. named-import.html
+1. `named-import.html`
 
     Ini adalah report untuk bundle yang dihasilkan dari **named import terhadap CommonJS**.
 
-2. direct-import.html
+2. `direct-import.html`
 
     Ini adalah report untuk bundle yang dihasilkan dari **direct import terhadap CommonJS**.
 
-3. named-import-esm.html
+3. `named-import-esm.html`
+
     Ini adalah report untuk bundle yang dihasilkan dari **named import terhadap ESModule**.
